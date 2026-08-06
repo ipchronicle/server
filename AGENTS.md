@@ -2,14 +2,15 @@
 
 ## Scope
 
-This repository owns server-side IPChronicle product code and server-owned
-contracts. Cross-repository decisions belong in the workspace architecture docs.
+This is a provisional repository. Its name does not finalize ownership or require
+the final system to have a separate server repository.
 
 ## Current phase
 
-This is a scaffold. Do not choose a language, framework, database, protocol,
-authentication model, or feature set without an explicit architecture decision.
-Do not copy the legacy reference implementation by default.
+Before implementation, read the workspace `docs/project-background.md`. Do not
+choose a language, framework, database, protocol, authentication model, feature
+set, or repository boundary without an explicit decision. Do not copy the legacy
+reference implementation by default.
 
 ## Working rules
 

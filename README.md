@@ -1,16 +1,16 @@
 # IPChronicle Server
 
-This repository will contain the server-side IPChronicle product code and the
-contracts exposed by the server.
+This is a provisional repository reserved under the IPChronicle organization.
 
 ## Status
 
-Repository scaffold only. The technology stack, architecture, API design,
-persistence model, and retained product features have not been selected.
+Repository scaffold only. Its name does not establish that the final system must
+have a separate server repository. Repository boundaries, technology stack,
+architecture, API design, persistence model, and retained features remain open.
 
-Do not treat the previous Komari integration project as a required architecture
-or compatibility target. It is available from the workspace as reference material
-only.
+Before implementation, read the workspace `docs/project-background.md` and record
+the accepted architecture decisions there. The previous Komari integration project
+is reference material only.
 
 ## Development
 
