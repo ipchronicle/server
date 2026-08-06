@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+
+.DS_Store
+.idea/
+.vscode/
+
+/artifacts/
+/build/
+/coverage/
+/dist/
+/tmp/
